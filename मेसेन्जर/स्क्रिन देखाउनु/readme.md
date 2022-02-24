@@ -1,7 +1,7 @@
 
 # मेसेन्जरमा स्क्रिन कसरी सेयर गर्ने ?
 1. मेसेन्जर एप खोल्नुहोस्। त्यस पछि, तपाईंले स्क्रिन सेयर गर्न चाहनुभएको व्यक्तिलाई भिडियो कल गर्नुहोस्।
-<br><img src="मेसेन्जर/स्क्रिन देखाउनु/फोटोहरू/१.jpg" width="400" />
+<br><img src="https://raw.githubusercontent.com/karundawadi/nepalitutorials/main/%E0%A4%AE%E0%A5%87%E0%A4%B8%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%9C%E0%A4%B0/%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%A8%20%E0%A4%A6%E0%A5%87%E0%A4%96%E0%A4%BE%E0%A4%89%E0%A4%A8%E0%A5%81/%E0%A4%AB%E0%A5%8B%E0%A4%9F%E0%A5%8B%E0%A4%B9%E0%A4%B0%E0%A5%82/%E0%A5%A7.jpg" width="400" />
 
 2. जब व्यक्तिले कलको जवाफ दिन्छ, कल विजेटलाई स्क्रिनको तलबाट तान्नुहोस्।
 <br><img src="https://raw.githubusercontent.com/karundawadi/nepalitutorials/main/%E0%A4%AE%E0%A5%87%E0%A4%B8%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%9C%E0%A4%B0/%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%A8%20%E0%A4%A6%E0%A5%87%E0%A4%96%E0%A4%BE%E0%A4%89%E0%A4%A8%E0%A5%81/%E0%A4%AB%E0%A5%8B%E0%A4%9F%E0%A5%8B%E0%A4%B9%E0%A4%B0%E0%A5%82/%E0%A5%A8.jpg" width="400" />
